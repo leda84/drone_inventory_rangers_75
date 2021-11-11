@@ -1,0 +1,5 @@
+# Everything here will be ignored when pushed to github
+rangers_env
+__pycache__
+.env
+migrations
